@@ -1,0 +1,4 @@
+class CfgFunctions
+{
+  #include "functions\keg\cfgFunctions.hpp"
+};
